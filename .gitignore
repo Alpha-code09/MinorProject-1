@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+minorproject-env/
+
+# Dataset folder (usually large)
+Dataset/
+
+# Environment variables
+.env
+
+# MacOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Python version file (if used)
+.python-version
