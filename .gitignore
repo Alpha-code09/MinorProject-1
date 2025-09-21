@@ -23,3 +23,6 @@ Dataset/
 
 # Python version file (if used)
 .python-version
+
+# Not Include Models
+Models/
